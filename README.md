@@ -17,7 +17,6 @@ The project demonstrates:
 ## Files
 
 - `iris_analysis.py` — Python script for data analysis and visualization  
-- `iris_analysis.ipynb` — Jupyter Notebook version with explanations and plots  
 
 ## Requirements
 
